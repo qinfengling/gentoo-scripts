@@ -1,0 +1,6 @@
+# required by sys-devel/binutils-apple-7.2::gentoo_prefix
+# required by sys-devel/llvm-3.7.1-r2::gentoo_prefix
+# required by sys-devel/clang-3.7.1-r100::gentoo_prefix
+# required by @system
+# required by @world (argument)
+=app-arch/xar-1.6.1 **
