@@ -10,7 +10,7 @@
 ### Install guide
 ```{r, engine='bash', count_lines}
 export EPREFIX="$HOME/gentoo"
-export PATH="$EPREFIX/usr/bin:$EPREFIX/bin:$EPREFIX/tmp/usr/bin:$EPREFIX/tmp/   bin:/usr/bin:/bin"
+export PATH="$EPREFIX/usr/bin:$EPREFIX/bin:$EPREFIX/tmp/usr/bin:$EPREFIX/tmp/bin:/usr/bin:/bin"
 export CHOST="x86_64-apple-darwin15"
 ./bootstrap-prefix.sh
 ```
